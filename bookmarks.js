@@ -14,11 +14,8 @@ const bookmarks = [
     links: [
       { name: "Youtube", url: "https://youtube.com" },
       { name: "News", url: "https://news.google.com/topstories?hl=en-AU&gl=AU&ceid=AU:en" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
+      { name: "Spotify", url: "https://open.spotify.com/" },
+      //{ name: "Amazon Prime", url: "https://www.amazon.com/Amazon-Video" },
     ],
   },
   {
@@ -42,7 +39,8 @@ const bookmarks = [
     title: "Other",
     links: [
       { name: "iCloud", url: "icloud.com/" },
-      { name: "Wikipedia", url: "https://www.wikipedia.org/" },
+      { name: "Maps", url: "https://www.google.com/maps" },
+      { name: "Github", url: "https://github.com/" },
     ],
   },
 ];
